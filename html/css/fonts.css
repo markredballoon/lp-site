@@ -27,3 +27,58 @@ Font Wieght Names:
 800 - Heavy / Extrabold
 900 - Black
 */
+
+
+@font-face {
+	font-family:'DroidSans';
+	src: url('Fonts/DroidSans_gdi.eot');
+	src: url('Fonts/DroidSans_gdi.eot?#iefix') format('embedded-opentype'),
+		url('Fonts/DroidSans_gdi.woff') format('woff'),
+		url('Fonts/DroidSans_gdi.ttf') format('truetype'),
+		url('Fonts/DroidSans_gdi.svg#DroidSans-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-25CA;
+}
+
+@font-face {
+	font-family:'DroidSans';
+	src: url('Fonts/DroidSans-Bold_gdi.eot');
+	src: url('Fonts/DroidSans-Bold_gdi.eot?#iefix') format('embedded-opentype'),
+		url('Fonts/DroidSans-Bold_gdi.woff') format('woff'),
+		url('Fonts/DroidSans-Bold_gdi.ttf') format('truetype'),
+		url('Fonts/DroidSans-Bold_gdi.svg#DroidSans-Regular') format('svg');
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-25CA;
+}
+
+
+
+@font-face {
+	font-family:'BebasNeue';
+	src: url('Fonts/BebasNeueBold_gdi.eot');
+	src: url('Fonts/BebasNeueBold_gdi.eot?#iefix') format('embedded-opentype'),
+		url('Fonts/BebasNeueBold_gdi.woff') format('woff'),
+		url('Fonts/BebasNeueBold_gdi.ttf') format('truetype'),
+		url('Fonts/BebasNeueBold_gdi.svg#DroidSans-Regular') format('svg');
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-25CA;
+}
+
+@font-face {
+	font-family:'BebasNeue';
+	src: url('Fonts/BebasNeueRegular_gdi.eot');
+	src: url('Fonts/BebasNeueRegular_gdi.eot?#iefix') format('embedded-opentype'),
+		url('Fonts/BebasNeueRegular_gdi.woff') format('woff'),
+		url('Fonts/BebasNeueRegular_gdi.ttf') format('truetype'),
+		url('Fonts/BebasNeueRegular_gdi.svg#DroidSans-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-25CA;
+}
